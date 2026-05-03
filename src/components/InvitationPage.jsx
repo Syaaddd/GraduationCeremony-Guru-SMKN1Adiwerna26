@@ -7,22 +7,37 @@ const TABS = [
   { key:"rundown",  label:"📋 Rundown"  },
 ];
 
-/* ── Normalize name for fuzzy match ── */
+/* ── Normalize: strip gelar, dots, lowercase, collapse spaces ── */
 function normName(s) {
-  return s.toLowerCase()
-    .replace(/[.,]/g,"")
-    .replace(/\b(drs?|dra|dr|hj?|ir|s\.pd|s\.t|s\.kom|s\.ag|s\.st|s\.pdT|s\.pdt|s\.sos\.i|s\.ap|s\.i\.pust|m\.pd|m\.ds|m\.si|m\.pd\.i|m\.hum)\b/gi,"")
-    .replace(/\s+/g," ").trim();
+  return s
+    .toLowerCase()
+    .replace(/[.,]/g, " ")
+    .replace(/\b(drs?|dra|dr|hj?|ir|s\s*pd|s\s*t|s\s*kom|s\s*ag|s\s*st|s\s*pdt?|s\s*sos\s*i|s\s*ap|s\s*i\s*pust|m\s*pd|m\s*ds|m\s*si|m\s*hum|m\s*pd\s*i|s\s*pd\s*i)\b/gi, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function firstWords(s, n = 2) {
+  return normName(s).split(" ").filter(Boolean).slice(0, n).join(" ");
 }
 
 function isVIP(teacherName) {
-  const tNorm = normName(teacherName);
-  return DRESSCODE.jas.some(n => {
-    const nNorm = normName(n);
-    // Check if either contains the other (handles gelar mismatch)
-    return tNorm.includes(nNorm) || nNorm.includes(tNorm) ||
-      // Fallback: first 2 words match
-      tNorm.split(" ").slice(0,2).join(" ") === nNorm.split(" ").slice(0,2).join(" ");
+  const tNorm  = normName(teacherName);
+  const t2     = firstWords(teacherName, 2);
+  const t3     = firstWords(teacherName, 3);
+  return DRESSCODE.jas.some(jasName => {
+    const jNorm = normName(jasName);
+    const j2    = firstWords(jasName, 2);
+    const j3    = firstWords(jasName, 3);
+    return (
+      tNorm === jNorm
+      || tNorm.includes(jNorm)
+      || jNorm.includes(tNorm)
+      || t2 === j2
+      || t3 === j3
+      || (t2.length > 4 && j2.startsWith(t2))
+      || (j2.length > 4 && t2.startsWith(j2))
+    );
   });
 }
 
