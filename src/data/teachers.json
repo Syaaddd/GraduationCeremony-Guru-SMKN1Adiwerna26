@@ -1,0 +1,762 @@
+[
+  {
+    "name": "Joko Pramono, S.Pd., M.Ds",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Dra. Tuti Retnowati",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Drs. Makmuri",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Leksono Wibowo, S.Pd.",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Dra. Ade Suryani Kusumawati",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Munawaroh, S.Pd.",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Sustiyowati, S.Pd., M.Pd",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Asrul Sani, S.Kom",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Hartina Nursilowati,S.Pd.",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Siti Azimah, S.Pd.",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Ummi Rizani, S.Pd., M.Pd",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Didit Mujiraharjo,S.Pd.",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Drs. Sri Catur Cahya Bintoro",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Drs. Muhammad Sholikhin",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Yohannes Totok Poerwono, S.Pd",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Dra. Denni Apriati Fristianingsih",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Rokhyati, S.Pd.",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Muktarom, S.Pd.",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Kirmadi, S.Pd.",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Imron, S.Pd.",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Bakhtiar Affandi, S.Pd.",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Sugimin, S.Pd., M.Pd",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Supriyati Setiyo Hastuti, S.Pd.",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Trio Bowo Leksana A Deddy, S.Pd.",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Tanti, S.Pd., M.Pd",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Puji Rahayu, S.Pd.",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Teguh Priambudi, S.Pd., M.Pd",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Risun, S.Pd.",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Eny Haryanti, S.Pd.",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Rita Heriyanti, S.Pd.",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Indriyanti, S.Pd",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Erva Agus Tiyarini, M.Pd.",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Moch. Safuan, S.Pd",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Ahmad Subani, S.Pd",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Sri Setiyahati, S.Pd",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Titik Robiah, S.Pd.",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Megawati, SPd.",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Rita Herbawati Riptiana, S.Pd.",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Rokhit Fatoni, S.Pd.",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Kris Biyantoro, S.Pd",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Maofur Rojihi, S.Pd., M.Pd",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Bunawar, S.Pd., M.Pd",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Sri Naskah Herowati, S.Pd.",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Nono Yulianto, S.Pd",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Eri Murdiati, S.Pd",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Agus Supriyanto, S.Pd",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Gandi, S.Kom",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Aminudin, S.Pd.",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Teguh Dwi Puji Santoso, S.Pd.T., M.Pd",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Subhan, ST",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Imam Muzaki, S.Pd",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Euis Murniasih, S.Kom",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Manu Aji, S.Pd., M.Pd",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Miftah Darojat, S.PdT",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Saraswati Sri Hastanti, S.Pd., M.Pd",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Kurniawati, S.Pd",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Robbin Syarifulloh, S.Pd",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Kusmaidi, S.Pd",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Rina Anindita, S.Pd",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Rochmat, S.Kom",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Nanik Quraisyin, S.Ag",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "M. Ali Wajadi, S.Ag",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Wiyarso, S.Ag",
+    "category": "Guru PNS"
+  },
+  {
+    "name": "Abdul Baist, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Abdul Ghofur, S.ST",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Abdul Rokhim, S.T.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Ahmad Solakhudin, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Arifulloh, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Azimatunikmah Rizkyana, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Bangkit Arif Wibowo, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Dobby Kurniawan, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Edo Wahyu Saputro, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Edy Purnomo, S.Kom.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Erwin Susanto, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Faizal Fatkhurohman, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Harits Rusli, S.Kom.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Heri Kiswanto, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Ika Nurhayanti, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Indah Pangestuti,S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Leni Nurlatifah S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Liza Farkhatun, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Mohammad Rahmad Rifa'i, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Muh. Nana Aviciena, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Mundiroh, S.Sos.I",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Niniek Wakhyu Indriasih, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Nurul Melti Indah Septiani, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Safitri Nur Insani, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Saroji, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Sugiarto Fajar, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Yuli Irawadi, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Verawati Sanjoyo, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Wulan Anggraeni,S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Rifqi Triawan, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Tresnawati, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Abdul Nasir, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Andreas Widya Kurniawan, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Indah Wulandini, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Liza Amalia, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Yuliyanto, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Rizki Rahmanda, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Mohamad Meful, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Rizal Raditiya, ST",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Eka Setyawati, S.Pd.T",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Bagus Wahyu Saputro, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Mohamad Aldi Setiawan, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Muhammad Mustain, ST",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Ahmad Bakhtiar Rifqi, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Fakhrurroji, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Muhamad Mubasir, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Afik Fitrianto, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Shofi Aftah Buddin, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Lilis Anjaswati, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Akhmad Furqon, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Guntur Setiawan, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Imam Fajar Nurzaman, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Haifaul Gholiyah, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Abu Bakar, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Adiningtyas Yuli Purwanto, S.Kom",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Budi Suryanto, S.Kom",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Uji Catur Nursito, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Wildan Syifaur Rakhman, S.Pd.I",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Friska Ayu Utami, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Nurul Fitrianingtyas, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Mohammad Tofik, S.T",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "M. Jarkoni, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Abdul Haris, S.Hut",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Salman Alfarizi, S.Kom",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Muhammad Khoirul Anam, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Miftakhul Urip, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Suherni, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Indra Priyanto, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Muhammad Indra Syaeful, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Puji Astuti, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Hendro Hadi Wardoyo, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Barokah, S.Si",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Lulu Himmatul Ulya, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Mufti Ardia Anggyantoro, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Mariya Ulfah, S.Pd.I",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Ashabul Ikhrom Sahdan, ST",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Anjas Sardi, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Siswoyo, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Fithria Saharani, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Rhiskianto, S.Pd.",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Iin Sri Mutiara, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Ahmad Fatullah, S.Pd",
+    "category": "Guru P3K"
+  },
+  {
+    "name": "Susanto",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "Nunung Kurnianingsih, S.Pd",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "Ahmad Sopan",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "Mifpahrudin",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "Sugeng Purwanto",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "III/a",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "II/c",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "II/b",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "II/a",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "Jumlah",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "INDAH ARUM WULANDARI, S.Ap",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "LAELATUL FITRI, S.Pd",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "LULU'IL MAKSUMAH, S.I.Pust",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "RINDA SOFIYANI, S.I.Pust",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "DASMANI, S.Kom",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "SUPANGKAT BAYU HARSANTO, ST",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "UMAR FAJAR, S.Kom",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "WIDI WIYANTO, S.Pd",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "MUKH. MUZAENI, S.PD.",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "ALI ARYANTO, A.Md",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "AMBAR TANJUNG SRI BESTARI",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "EKO HERIYANTO",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "SUGENG WURYANTO",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "BISRI ROSADI",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "SITI SAMROTUN",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "AMIR ROSIDIN",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "JAFAR ADI WINOKO",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "MABRURI",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "ENDANG SETIAWAN",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "SYAHRUL AMIN",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "ZAENAL ARIFIN",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "TEGUH PANUNTUN",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "TUTI ALFIYAH",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "RASIMAN",
+    "category": "Tenaga Pendukung"
+  },
+  {
+    "name": "EDI WARWONO",
+    "category": "Tenaga Pendukung"
+  },
+  {
+    "name": "MUSLIM",
+    "category": "Tenaga Pendukung"
+  },
+  {
+    "name": "RIZKI ROHSIYANTO FADILLAH",
+    "category": "Tenaga Pendukung"
+  },
+  {
+    "name": "MUHAMMAD ARDANI",
+    "category": "Tenaga Pendukung"
+  },
+  {
+    "name": "ANWAR",
+    "category": "Tenaga Pendukung"
+  },
+  {
+    "name": "BASIR",
+    "category": "Tenaga Pendukung"
+  },
+  {
+    "name": "SURIP",
+    "category": "Tenaga Pendukung"
+  },
+  {
+    "name": "DIKIN",
+    "category": "Tenaga Pendukung"
+  },
+  {
+    "name": "SLAMET",
+    "category": "Tenaga Pendukung"
+  },
+  {
+    "name": "Pontjo Susilo",
+    "category": "Tenaga Kependidikan"
+  },
+  {
+    "name": "Faozi",
+    "category": "Tenaga Kependidikan"
+  }
+]
